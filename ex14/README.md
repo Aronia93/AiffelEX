@@ -1,7 +1,7 @@
 ## Code Peer Review Template
 ---
 * 코더 : 정연준
-* 리뷰어 : 
+* 리뷰어 : 신인수
 
 
 ## PRT(PeerReviewTemplate)
